@@ -1,8 +1,8 @@
-### Olá! Eu sou o Alexandre Peres 👋👋
+### Olá! Eu sou o Alexandre Peres 👋👋🤙🤙
 Bem-Vindo ao meu GitHub!!!
 Faço faculdade de Análise e desenvolvimento de sistemas no SENAC-RS em Porto Alegre. Por aqui, vou disponibilizar meus estudos e aprendizados. 
-Email: algperes@gmail.com
-Whatsapp: (51)99449-0042 
+Email: algperes@gmail.com📧
+Whatsapp: (51)99449-0042📲 
 
 ![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)(https://www.linkedin.com/in/alexandre-peres-a085b9a6/)
 
