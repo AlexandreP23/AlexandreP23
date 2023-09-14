@@ -7,8 +7,12 @@ Whatsapp: (51)99449-0042📲
 
 CONTATOS:
 
-<a href="https://www.linkedin.com/in/alexandre-peres-a085b9a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<div align="left">
+  <a href="https://www.linkedin.com/in/alexandre-peres-a085b9a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
+<a href="algperes@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</div><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=alexandrep23&show_icons=true&theme=dracula)
 
