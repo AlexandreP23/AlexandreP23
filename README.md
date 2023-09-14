@@ -1,9 +1,7 @@
 ![](https://komarev.com/ghpvc/?username=alexandrep23)
-### Olá! Eu sou o Alexandre Peres 👋👋🤙🤙
+<h1>### Olá! Eu sou o Alexandre Peres 👋👋🤙🤙</h1>
 Bem-Vindo ao meu GitHub!!!
-Faço faculdade de Análise e desenvolvimento de sistemas no SENAC-RS em Porto Alegre. Por aqui, vou disponibilizar meus estudos e aprendizados. 
-Email: algperes@gmail.com📧
-Whatsapp: (51)99449-0042📲 
+Faço faculdade de Análise e Desenvolvimento de Sistemas no SENAC-RS em Porto Alegre. Por aqui, vou disponibilizar meus estudos e projetos. 
 
 CONTATOS:
 
@@ -18,7 +16,7 @@ CONTATOS:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
-###Tecnologias que ultilizo!
+<h2>###Tecnologias que ultilizo!</h2>
 <div style="display: inline_block"><br>
     <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alig="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -30,4 +28,4 @@ CONTATOS:
 
 </div><br>
 
-Apaixonado por tecnologia e a maneira que ela muda a vida das pessoas!!!
+<h3>Apaixonado por tecnologia e a maneira que ela muda a vida das pessoas!!!</h3>
