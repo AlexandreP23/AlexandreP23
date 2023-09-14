@@ -1,8 +1,8 @@
 ![](https://komarev.com/ghpvc/?username=alexandrep23)
 <h1>### Olá! Eu sou o Alexandre Peres 👋👋🤙🤙</h1>
 Bem-Vindo ao meu GitHub!!!
-Faço faculdade de Análise e Desenvolvimento de Sistemas no SENAC-RS em Porto Alegre. Por aqui, vou disponibilizar meus estudos e projetos. 
-
+Faço faculdade de Análise e Desenvolvimento de Sistemas no SENAC-RS em Porto Alegre. Por aqui, vou disponibilizar meus estudos e projetos.<br>
+<br>
 CONTATOS:
 
 <div align="left">
