@@ -1,4 +1,4 @@
-![Profile views](https://gpvc.arturio.dev/[AlexandreP23])
+![](https://komarev.com/ghpvc/?username=alexandrep23)
 ### Olá! Eu sou o Alexandre Peres 👋👋🤙🤙
 Bem-Vindo ao meu GitHub!!!
 Faço faculdade de Análise e desenvolvimento de sistemas no SENAC-RS em Porto Alegre. Por aqui, vou disponibilizar meus estudos e aprendizados. 
