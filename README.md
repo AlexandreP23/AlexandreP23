@@ -1,9 +1,9 @@
 ![](https://komarev.com/ghpvc/?username=alexandrep23)
-<h1>### Olá! Eu sou o Alexandre Peres 👋👋🤙🤙</h1>
-Bem-Vindo ao meu GitHub!!!
-Faço faculdade de Análise e Desenvolvimento de Sistemas no SENAC-RS em Porto Alegre. Por aqui, vou disponibilizar meus estudos e projetos.<br>
+<h1>### Hey!I'm Alexandre Peres 👋👋</h1>
+Welcome to my GitHub!!!
+Studying Systems Analysis and Development at SENAC-RS in Porto Alegre. Here, I will make available my studies and projects.<br>
 <br>
-<h2>###Tecnologias que ultilizo!</h2>
+<h2>###Technologies that i use!</h2>
 <div style="display: inline_block"><br>
     <img alig="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
     <img alig="center" alt="css" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
@@ -15,7 +15,7 @@ Faço faculdade de Análise e Desenvolvimento de Sistemas no SENAC-RS em Porto A
 
 </div><br>
 
-CONTATOS:
+CONTACT:
 <br>
 <div align="left">
   <a href="https://www.linkedin.com/in/alexandre-peres-a085b9a6/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
@@ -29,4 +29,4 @@ CONTATOS:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 
-<h3>Apaixonado por tecnologia e a maneira que ela muda a vida das pessoas!!!</h3>
+<h3>Passionate about technology and the way it changes people’s lives!!!</h3>
